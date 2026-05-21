@@ -3,7 +3,7 @@
 ## Variables & Printing
 
 1. [✅] Create 2 variables x and y then print their sum
-2. [ ] Store your name and age then print them
+2. [✅] Store your name and age then print them
 3. [ ] Create variables for width and height then calculate area
 4. [ ] Swap two variables
 5. [ ] Create a constant PI and print it
