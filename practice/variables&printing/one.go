@@ -4,7 +4,7 @@ import "fmt"
 
 func one() {
 
-	// Store your name and age then print them
+	// Create 2 variables x and y then print their sum
 
 	var x int = 10
 	var y int = 20
