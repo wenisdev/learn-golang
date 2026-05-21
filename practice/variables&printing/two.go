@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func storenameandprint() {
+func two() {
 
 	// Store your name and age then print them
 
