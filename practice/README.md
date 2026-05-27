@@ -8,10 +8,10 @@
 4. [✅] Swap two variables
 5. [✅] Create a constant PI and print it
 6. [✅] Store 5 favorite movies in variables
-7. [ ] Create variables with different data types
-8. [ ] Print formatted output using fmt.Printf
-9. [ ] Concatenate first name and last name
-10. [ ] Convert int to float
+7. [✅] Create variables with different data types
+8. [✅] Print formatted output using fmt.Printf
+9. [✅] Concatenate first name and last name
+10. [✅] Convert int to float
 
 ## User Input
 
