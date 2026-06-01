@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	// Ask user for 2 numbers and add them
+	//Ask user for 2 numbers and add them
 
 	var num1, num2 int
 	fmt.Print("Enter the first number: ")
