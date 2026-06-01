@@ -16,8 +16,8 @@
 ## User Input
 
 11. [✅] Ask user for name
-12. [ ] Ask user for 2 numbers and add them
-13. [ ] Ask user for age and print if adult
+12. [✅] Ask user for 2 numbers and add them
+13. [✅] Ask user for age and print if adult
 14. [ ] Create BMI calculator
 15. [ ] Celsius to Fahrenheit converter
 16. [ ] Rectangle area calculator
